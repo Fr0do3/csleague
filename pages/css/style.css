@@ -1,0 +1,87 @@
+h1{
+   font-family: 'Roboto', sans-serif;
+}
+
+*{
+   margin: 0;
+   padding: 0;
+   text-decoration:none;
+}
+
+.menu2{
+   width: 100%;
+   height:70px;
+   background-color: rgb(156, 0, 0);
+}
+
+ul {
+
+}
+
+ul li {
+   list-style: none;
+   display: inline-block;
+}
+
+ul li a{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(201, 201, 201);
+   padding: 20px 20px;
+}
+
+.menu{
+   width: 100%;
+   height:70px;
+}
+
+.menu ul li a{
+color: black;
+}
+
+ul li .pilots{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(255, 255, 255);
+   padding: 20px 20px;
+}
+
+ul li .palya{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(255, 255, 255);
+   padding: 20px 20px;
+}
+
+ul li .teams{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(255, 255, 255);
+   padding: 20px 20px;
+}
+ul li .arc{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(255, 255, 255);
+   padding: 20px 20px;
+}
+ul li .td{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(255, 255, 255);
+   padding: 20px 20px;
+}
+
+ul li .inf{
+   display: block;
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   color:rgb(255, 255, 255);
+   padding: 20px 20px;
+}
