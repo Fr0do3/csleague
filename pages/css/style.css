@@ -111,3 +111,25 @@ th{
    width: 500px;
    background-color: rgba(71, 71, 71, 0.534);
 }
+
+.wrapper{
+   margin: 0 auto;
+   width: 1500px;
+}
+
+.video{
+   position: relative;
+   padding-bottom: 56.25%;
+   padding-top: 25px;
+   height: 0px;
+}
+
+.video iframe{
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   right: 0px;
+   bottom: 0px;
+   height: 50%;
+   width: 50%;
+}
